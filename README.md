@@ -18,7 +18,7 @@ To access this information
 
 -Right click the page in Google Chrome and click on Inspect
 
-![inspect](assets/inspect.PNG)
+![inspect](assets/Inspect.PNG)
 
 -Click on Console to see which subject to study
 
